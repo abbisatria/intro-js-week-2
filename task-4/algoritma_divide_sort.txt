@@ -1,0 +1,11 @@
+1. Mulai
+2. Input number
+3. Ubah nilai number menjadi string menggunakan fungsi : toString()
+4. Lalu masukan ke dalam array dengan pemisah indeks nya yaitu string 0 menggunakan fungsi : split('0')
+5. Mapping nilai indeks tersebut lalu setiap indeks nya pecah kembali ke dalam bentuk array menggunakan fungsi : map((num) => num.split(''))
+6. Lakukan sorting array pada setiap indeks yang telah di pecah menggunakan fungsi : sort()
+7. Lalu satukan kembali setiap indeks tersebut menggunakan fungsi : join('')
+8. Ubah array tersebut menjadi string menggunakan fungsi : join('')
+9. Ubah nilai string menjadi number menggunakan fungsi : parseInt()
+10. Cetak number tersebut
+11. Selesai
